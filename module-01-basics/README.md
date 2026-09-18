@@ -1,11 +1,11 @@
 # Lab 01 - Docker: First Alpine Linux Containers
 
+**Source:** [Play with Docker Training](https://training.play-with-docker.com/ops-s1-hello/?utm_source=gemini)
+
 <!-- Language Switcher -->
 <p align="right">
   <strong>English</strong> | <a href="./README.fr.md">Français 🇫🇷</a>
 </p>
-
-**Source:** [Play with Docker Training](https://training.play-with-docker.com/ops-s1-hello/?utm_source=gemini)
 
 In this lab, you will explore the basics of how containers work, as well as how the Docker Engine runs and isolates containers from one another.
 

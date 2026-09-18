@@ -2,6 +2,11 @@
 
 **Source :** [Play with Docker Training](https://training.play-with-docker.com/ops-s1-hello/)
 
+<!-- Language Switcher -->
+<p align="right">
+  <a href="./README.md">English 🇬🇧</a> | <strong>Français</strong>
+</p>
+
 Dans cet atelier, vous allez explorer les bases du fonctionnement des conteneurs, ainsi que la manière dont le moteur Docker exécute et isole les conteneurs les uns des autres.
 
 **Concepts abordés :**
