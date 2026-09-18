@@ -14,7 +14,7 @@ Please prefer working locally, ensure you have the following installed:
 * [Git](https://git-scm.com)
 * [VS Code](https://visualstudio.com)
 
-### Option A: Open in GitHub Codespaces
+### Option B: Open in GitHub Codespaces
 If you have troubles running Docker locally, this would be an alternative option.
 1. Click the **Code** button at the top right of this repository.
 2. Select the **Codespaces** tab.
