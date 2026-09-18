@@ -1,6 +1,9 @@
 # Lab 01 - Docker: First Alpine Linux Containers
 
-
+<!-- Language Switcher -->
+<p align="right">
+  <strong>English</strong> | <a href="./README.fr.md">Français 🇫🇷</a>
+</p>
 
 **Source:** [Play with Docker Training](https://training.play-with-docker.com/ops-s1-hello/?utm_source=gemini)
 
