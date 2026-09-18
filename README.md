@@ -6,9 +6,6 @@ Welcome to the **Docker Hands-On Labs** repository! This course is designed to t
 
 ## 🚀 Getting Started
 
-You do not need to install Docker, WSL2, or any heavy software on your local machine to complete these labs. You can run everything entirely in your browser using **GitHub Codespaces**.
-
-### Local Setup (Recommended)
 Please prefer working locally, ensure you have the following installed:
 * [Docker Desktop](https://docker.com) (Mac/Windows) or Docker Engine (Linux)
 * [Git](https://git-scm.com)
