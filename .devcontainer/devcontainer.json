@@ -1,31 +1,3 @@
-{
-  "name": "Lightweight Alpine Docker Env",
-  
-  // Uses Alpine Linux as the ultra-lightweight base image
-  "image": "://microsoft.com",
-
-  // Enables Docker inside the Alpine container
-  "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {
-      "version": "latest",
-      "moby": true
-    }
-  },
-
-  "customizations": {
-    "vscode": {
-      "settings": {
-        // Alpine uses ash/sh instead of bash by default
-        "terminal.integrated.defaultProfile.linux": "ash"
-      },
-      "extensions": [
-        "ms-azuretools.vscode-containers"
-      ]
-    }
-  },
-
-  // Alpine uses 'apk' instead of 'apt' for package management
-  "postCreateCommand": "apk update && apk add curl git && docker --version",
-
-  "remoteUser": "vscode"
+{"name": "Alpine",
+	"image": "mcr.microsoft.com/devcontainers/base:alpine${templateOption:imageVariant}"
 }
